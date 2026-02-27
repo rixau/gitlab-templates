@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file. This projec
 ## [5] - on future date... somewhat unreleased but promises to have a new 5 be created for any breaking change
 ### Added
 - Gradle CI cache path for build-cache directory.
+- Flag that enables the build-cache in `java-gradle-atak-offline.yml`
 - Java Gradle ATAK Offline template jobs.
 - Dependency vulnerability scanning to Android pipeline. 
 
